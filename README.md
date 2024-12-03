@@ -4,8 +4,11 @@
 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲: The analysis primarily investigates factors influencing customer churn, particularly focusing on payment methods and contract types.
 
 💡 𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀:
+
 1️⃣ Customers with short-term contracts or specific service plans showed higher churn rates.
+
 2️⃣ Billing issues and dissatisfaction with certain payment methods had a significant impact on churn.
+
 3️⃣ A strong correlation was observed between customer support experiences and loyalty—unresolved complaints drove higher churn.
 
 🔑 What I Achieved:
